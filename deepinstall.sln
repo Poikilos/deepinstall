@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deepinstall", "deepinstall.csproj", "{23FCA3AA-3CD2-4A5E-A26F-04A564F16486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FCA3AA-3CD2-4A5E-A26F-04A564F16486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FCA3AA-3CD2-4A5E-A26F-04A564F16486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FCA3AA-3CD2-4A5E-A26F-04A564F16486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FCA3AA-3CD2-4A5E-A26F-04A564F16486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
