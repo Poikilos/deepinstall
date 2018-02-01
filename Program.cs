@@ -16,7 +16,8 @@ namespace DeepInstall
 		public static string dat_path = null;
 		public static void Main(string[] args)
 		{
-			dat_path = Assembly.GetExecutingAssembly().Location;
+			string self_path = Assembly.GetExecutingAssembly().Location;
+			
 		}
 	}
 }
